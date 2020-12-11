@@ -9,7 +9,7 @@
   },
   
   "author": "ramjith",
-  "homepage": "https://github.com/iamshaunjp/node-crash-course#readme",
+  "homepage": "https://github.com/RamjithRamadas/node-basics",
   "dependencies": {
     "express": "^4.17.1",
     "lodash": "^4.17.15"
